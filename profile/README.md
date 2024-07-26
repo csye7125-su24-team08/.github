@@ -45,6 +45,6 @@
 ## Authors
 
 - [Piyush Dongre](https://github.com/dongrep)
-- [Anuraag Bhatula](https://github.com/local-man)
+- [Anuraag Bathula](https://github.com/local-man)
 
 <!--img src="https://user-images.githubusercontent.com/97932746/201548646-8a8439bd-5f6e-487a-a9b7-1d57ba0187be.png" alt="final-patch" width="500" height="500" -->
