@@ -3,10 +3,12 @@
 © 2024 Clustering.ninja
 
 ### Project Summary
+
 <img src="https://github.com/csye7125-fall2023-group05/.github/assets/97932746/d5dc9003-8827-4002-9d4d-db4071b205e6)" alt="final-patch" width="800" height="800">
 
+
 **Aim:**
-To automate the processing and storage of CVE data, ensuring timely updates and enhancing the ability to query this data using advanced machine learning techniques, while maintaining a scalable and efficient infrastructure.
+- To automate the processing and storage of CVE data, ensuring timely updates and enhancing the ability to query this data using advanced machine learning techniques, while maintaining a scalable and efficient infrastructure.
 
 **Implementation:**
 - Deployed infrastructure on AWS EKS using Terraform and managed Kubernetes resources with Helm charts and Docker.
@@ -16,7 +18,7 @@ To automate the processing and storage of CVE data, ensuring timely updates and 
 - Automated the CVE data ingestion pipeline, integrating processed data into a vector database to enhance an LLM's capability to answer CVE-related queries.
 
 **Outcome:**
-The project successfully created a robust, automated system for processing and storing CVE data, ensuring timely updates and improving query capabilities through machine learning integration. This resulted in enhanced system reliability, data integrity, and overall efficiency in managing and utilizing CVE information.
+- The project successfully created a robust, automated system for processing and storing CVE data, ensuring timely updates and improving query capabilities through machine learning integration. This resulted in enhanced system reliability, data integrity, and overall efficiency in managing and utilizing CVE information.
 
 ## Topics
 
