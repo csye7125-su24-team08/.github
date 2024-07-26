@@ -1,6 +1,6 @@
-# pwncorp
+# Clustering Ninjas
 
-© 2024 Clustering Ninjas
+© 2024 Clustering.ninja
 
 ### Project Summary
 
