@@ -4,7 +4,7 @@
 
 ### Project Summary
 
-<img src="https://raw.githubusercontent.com/csye7125-su24-team08/.github/main/CVE%20LLM%20Diagram%20Aug%2017%202024.png" alt="final-patch" width="800" height="800">
+<img src="https://raw.githubusercontent.com/csye7125-su24-team08/.github/main/CVE%20LLM%20Diagram%20Aug%2017%202024.png" alt="final-patch" width="800" height="600">
 
 
 **Aim:**
